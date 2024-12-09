@@ -1,4 +1,4 @@
-# advent-of-code-2024
+# MiBu66 advent-of-code-2024
 solutions via VBA
 
 see https://adventofcode.com/2024 for the challenges
